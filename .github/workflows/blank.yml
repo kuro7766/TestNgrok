@@ -35,8 +35,8 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
           
-#       - run: |
-#           pip install pyngrok
-#       - run: |
-#           python ng.py
+      - run: |
+          pip install pyngrok
+      - run: |
+          sh run.sh remote.ipynb remote.py
 
