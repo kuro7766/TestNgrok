@@ -37,6 +37,8 @@ jobs:
           
       - run: |
           pip install pyngrok
+          pip install jupyter
+
       - run: |
           sh run.sh remote.ipynb remote.py
 
