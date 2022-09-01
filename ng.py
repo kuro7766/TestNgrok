@@ -7,4 +7,7 @@ for tunnel in active_tunnels:
     ngrok.disconnect(public_url)
 url = ngrok.connect(addr=10086, bind_tls=True)
 print(url.public_url + '/?token=123456')
-time.sleep(9999)
+
+while True:
+    time.sleep(5)
+    print('heat beat')
