@@ -44,3 +44,11 @@ jobs:
       - run: |
           sh run.sh go.ipynb go.py
 
+      - uses: actions/upload-artifact@v2
+        with:
+          name: figures_tmp
+          path: ./figures_tmp
+  #         path: ./hn2_new.pdf          
+
+          
+
