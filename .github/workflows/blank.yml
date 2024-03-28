@@ -42,5 +42,5 @@ jobs:
           pip install --upgrade Pygments
 
       - run: |
-          sh run.sh remote.ipynb remote.py
+          sh run.sh go.ipynb go.py
 
