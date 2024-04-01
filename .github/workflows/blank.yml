@@ -42,13 +42,14 @@ jobs:
           pip install --upgrade Pygments
 
       - run: |
-          sh run.sh go.ipynb go.py
+          sh run.sh remote.ipynb remote.py
+          # sh run.sh go.ipynb go.py
 
-      - uses: actions/upload-artifact@v2
-        with:
-          name: figures_tmp
-          path: ./figures_tmp
-  #         path: ./hn2_new.pdf          
+  #     - uses: actions/upload-artifact@v2
+  #       with:
+  #         name: figures_tmp
+  #         path: ./figures_tmp
+  # #         path: ./hn2_new.pdf          
 
           
 
