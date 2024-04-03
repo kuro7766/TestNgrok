@@ -1,120 +1,119 @@
 cd pdf_dir && rm *
-arxiv-downloader --url https://arxiv.org/abs/2210.12385
-arxiv-downloader --url https://arxiv.org/pdf/2210.12385
-arxiv-downloader --url https://ar5iv.labs.arxiv.org/html/2210.12385
-arxiv-downloader --url https://arxiv.org/html/2401.06823v1
-arxiv-downloader --url https://arxiv.org/abs/2109.12404
-arxiv-downloader --url https://arxiv.org/abs/2210.05677
-arxiv-downloader --url https://arxiv.org/pdf/1901.06105
-arxiv-downloader --url https://www.arxiv-sanity-lite.com/?rank=pid&pid=2311.03410
-arxiv-downloader --url https://ui.adsabs.harvard.edu/abs/arXiv:2311.03410
-arxiv-downloader --url https://sites.google.com/site/yhchangucb/news-arxiv
-arxiv-downloader --url https://arxiv.org/pdf/2109.12404
-arxiv-downloader --url https://www.arxiv-sanity-lite.com/?rank=pid&pid=2210.12385
-arxiv-downloader --url https://ui.adsabs.harvard.edu/abs/arXiv:2104.12320
-arxiv-downloader --url https://arxiv.org/pdf/2210.05677
-arxiv-downloader --url https://karpathy.medium.com/iclr-2017-vs-arxiv-sanity-d1488ac5c131
-arxiv-downloader --url https://typeset.io/journals/arxiv-genomics-3n4zxol8/2021
-arxiv-downloader --url https://medium.com/@ricardocolindres/categorizing-trends-in-science-arxiv-dataset-machine-learning-45aef369abab
-arxiv-downloader --url https://www.quora.com/What-is-the-best-way-to-keep-up-with-Machine-Learning-research-papers-on-Arxiv
-arxiv-downloader --url https://typeset.io/journals/arxiv-genomics-3n4zxol8/2017
-arxiv-downloader --url https://github.com/DWCTOD/cv-arxiv-daily
-arxiv-downloader --url https://arxiv.org/abs/2403.00024
-arxiv-downloader --url https://www.quora.com/How-do-I-learn-machine-learning-from-beginner-level-to-the-level-where-I-can-read-a-paper-from-arXiv-and-implement-it-to-the-real-world-in-2-months-by-spending-18-hours-per-day
-arxiv-downloader --url https://www.physics.gla.ac.uk/xtremelight/publications/arXiv-UMAP-Ilya(2020).pdf
-arxiv-downloader --url https://insidebigdata.com/2021/12/17/best-of-arxiv-org-for-ai-machine-learning-and-deep-learning-november-2021/
-arxiv-downloader --url https://insidebigdata.com/2020/08/11/best-of-arxiv-org-for-ai-machine-learning-and-deep-learning-july-2020/
-arxiv-downloader --url https://cstheory.meta.stackexchange.com/questions/41/arxiv-tags-vs-not
-arxiv-downloader --url https://arxiv.org/abs/2401.06823
-arxiv-downloader --url https://mathoverflow.net/questions/2556/real-world-applications-of-mathematics-by-arxiv-subject-area
-arxiv-downloader --url https://arxiv.org/abs/2310.09561
-arxiv-downloader --url https://www.cs.iastate.edu/swapp/files/inline-files/sarkar-arxiv-oct-2020.pdf
-arxiv-downloader --url https://arxiv.org/abs/2402.08303
-arxiv-downloader --url https://arxiv.org/pdf/2203.09664
-arxiv-downloader --url http://arxiv.org/abs/2206.04047
-arxiv-downloader --url https://arxiv.org/pdf/1803.10829
-arxiv-downloader --url https://arxiv.org/pdf/2302.10907
-arxiv-downloader --url https://arxiv.org/abs/2311.17104
-arxiv-downloader --url https://arxiv.org/pdf/2311.02455
-arxiv-downloader --url https://arxiv.org/pdf/2303.00233
-arxiv-downloader --url https://arxiv.org/abs/2312.16600
-arxiv-downloader --url https://arxiv.org/pdf/2403.08959
-arxiv-downloader --url https://arxiv.org/html/2311.15156v2
-arxiv-downloader --url https://arxiv.org/abs/2401.07379
-arxiv-downloader --url https://arxiv.org/pdf/2312.16600
-arxiv-downloader --url https://arxiv.org/abs/2311.12711
-arxiv-downloader --url https://arxiv.org/abs/2312.10310
-arxiv-downloader --url https://arxiv.org/pdf/2310.14935
-arxiv-downloader --url https://arxiv.org/abs/2403.08959
-arxiv-downloader --url https://arxiv.org/pdf/2401.03968
-arxiv-downloader --url https://arxiv.org/pdf/2303.16725
-arxiv-downloader --url https://arxiv.org/pdf/2210.04453
-arxiv-downloader --url https://arxiv.org/pdf/2307.08509
-arxiv-downloader --url https://arxiv.org/pdf/2002.07128
-arxiv-downloader --url https://arxiv.org/html/2312.14220v1
-arxiv-downloader --url https://arxiv.org/html/2302.03038v2
-arxiv-downloader --url https://arxiv.org/pdf/2312.14220
-arxiv-downloader --url https://arxiv.org/abs/2304.13084
-arxiv-downloader --url https://arxiv.org/abs/2211.03553
-arxiv-downloader --url https://arxiv.org/pdf/2306.13750
-arxiv-downloader --url https://arxiv.org/abs/2312.14220
-arxiv-downloader --url https://arxiv.org/pdf/2312.10261
-arxiv-downloader --url https://arxiv.org/html/2312.10261v1
-arxiv-downloader --url https://arxiv.org/pdf/2203.01884
-arxiv-downloader --url https://arxiv.org/pdf/2005.03994
-arxiv-downloader --url https://arxiv.org/pdf/2306.01859
-arxiv-downloader --url https://arxiv.org/pdf/2112.03266
-arxiv-downloader --url https://arxiv.org/abs/2307.08509
-arxiv-downloader --url https://arxiv.org/pdf/2309.07950
-arxiv-downloader --url https://arxiv.org/abs/2201.07322
-arxiv-downloader --url https://arxiv.org/abs/2310.02713
-arxiv-downloader --url https://arxiv.org/abs/2110.07069
-arxiv-downloader --url https://arxiv.org/abs/2002.07128
-arxiv-downloader --url https://arxiv.org/abs/2106.08317
-arxiv-downloader --url https://arxiv.org/abs/2205.09849
-arxiv-downloader --url https://arxiv.org/pdf/2307.00558
-arxiv-downloader --url https://arxiv.org/abs/2110.00681
-arxiv-downloader --url https://arxiv.org/abs/2304.02697
-arxiv-downloader --url https://arxiv.org/abs/2203.01884
-arxiv-downloader --url https://arxiv.org/abs/2104.01512
-arxiv-downloader --url https://arxiv.org/abs/2108.05039
-arxiv-downloader --url https://arxiv.org/abs/2204.14048
-arxiv-downloader --url https://arxiv.org/html/2403.17615v1
-arxiv-downloader --url https://arxiv.org/pdf/2311.15156
-arxiv-downloader --url https://arxiv.org/pdf/2403.17615
-arxiv-downloader --url https://arxiv.org/html/2403.08959v1
-arxiv-downloader --url https://arxiv.org/html/2312.16600v1
-arxiv-downloader --url https://arxiv.org/abs/2001.01666
-arxiv-downloader --url https://arxiv.org/html/2401.03968v2
-arxiv-downloader --url https://arxiv.org/pdf/2107.02584
-arxiv-downloader --url https://arxiv.org/pdf/2402.08303
-arxiv-downloader --url https://arxiv.org/html/2311.02455v2
-arxiv-downloader --url https://arxiv.org/pdf/2312.09234
-arxiv-downloader --url https://arxiv.org/pdf/2301.12222
-arxiv-downloader --url https://arxiv.org/html/2311.17104v2
-arxiv-downloader --url https://arxiv.org/html/2312.10310v1
-arxiv-downloader --url https://arxiv.org/pdf/2310.03086
-arxiv-downloader --url https://arxiv.org/abs/2403.05679
-arxiv-downloader --url https://arxiv.org/pdf/2311.03410
-arxiv-downloader --url https://arxiv.org/pdf/2108.10446
-arxiv-downloader --url https://arxiv.org/pdf/2307.03672
-arxiv-downloader --url https://arxiv.org/html/2402.11289v1
-arxiv-downloader --url https://arxiv.org/pdf/2302.03038
-arxiv-downloader --url https://arxiv.org/pdf/2402.04912
-arxiv-downloader --url https://arxiv.org/html/2401.10657v1
-arxiv-downloader --url https://arxiv.org/pdf/2401.04155
-arxiv-downloader --url https://arxiv.org/html/2311.11991v2
-arxiv-downloader --url https://arxiv.org/pdf/2402.11289
-arxiv-downloader --url https://arxiv.org/abs/2401.15903
-arxiv-downloader --url https://arxiv.org/html/2403.05679v1
-arxiv-downloader --url https://arxiv.org/abs/2007.09524
-arxiv-downloader --url https://arxiv.org/pdf/1603.06430
-arxiv-downloader --url https://arxiv.org/pdf/2304.02697
-arxiv-downloader --url https://arxiv.org/html/2403.00024v1
-arxiv-downloader --url https://arxiv.org/pdf/1910.12326
-arxiv-downloader --url https://arxiv.org/list/q-bio.GN/2212
-arxiv-downloader --url https://arxiv.org/pdf/2202.02958
-arxiv-downloader --url https://arxiv.org/html/2403.11375v1
-arxiv-downloader --url https://arxiv.org/pdf/2311.02594
-arxiv-downloader --url https://arxiv.org/pdf/2302.13268
-cd ..
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/abs/2210.12385
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2210.12385
+cd pdf_dir && arxiv-downloader --url https://ar5iv.labs.arxiv.org/html/2210.12385
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/html/2401.06823v1
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/abs/2109.12404
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/abs/2210.05677
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/1901.06105
+cd pdf_dir && arxiv-downloader --url https://www.arxiv-sanity-lite.com/?rank=pid&pid=2311.03410
+cd pdf_dir && arxiv-downloader --url https://ui.adsabs.harvard.edu/abs/arXiv:2311.03410
+cd pdf_dir && arxiv-downloader --url https://sites.google.com/site/yhchangucb/news-arxiv
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2109.12404
+cd pdf_dir && arxiv-downloader --url https://www.arxiv-sanity-lite.com/?rank=pid&pid=2210.12385
+cd pdf_dir && arxiv-downloader --url https://ui.adsabs.harvard.edu/abs/arXiv:2104.12320
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2210.05677
+cd pdf_dir && arxiv-downloader --url https://karpathy.medium.com/iclr-2017-vs-arxiv-sanity-d1488ac5c131
+cd pdf_dir && arxiv-downloader --url https://typeset.io/journals/arxiv-genomics-3n4zxol8/2021
+cd pdf_dir && arxiv-downloader --url https://medium.com/@ricardocolindres/categorizing-trends-in-science-arxiv-dataset-machine-learning-45aef369abab
+cd pdf_dir && arxiv-downloader --url https://www.quora.com/What-is-the-best-way-to-keep-up-with-Machine-Learning-research-papers-on-Arxiv
+cd pdf_dir && arxiv-downloader --url https://typeset.io/journals/arxiv-genomics-3n4zxol8/2017
+cd pdf_dir && arxiv-downloader --url https://github.com/DWCTOD/cv-arxiv-daily
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/abs/2403.00024
+cd pdf_dir && arxiv-downloader --url https://www.quora.com/How-do-I-learn-machine-learning-from-beginner-level-to-the-level-where-I-can-read-a-paper-from-arXiv-and-implement-it-to-the-real-world-in-2-months-by-spending-18-hours-per-day
+cd pdf_dir && arxiv-downloader --url https://www.physics.gla.ac.uk/xtremelight/publications/arXiv-UMAP-Ilya(2020).pdf
+cd pdf_dir && arxiv-downloader --url https://insidebigdata.com/2021/12/17/best-of-arxiv-org-for-ai-machine-learning-and-deep-learning-november-2021/
+cd pdf_dir && arxiv-downloader --url https://insidebigdata.com/2020/08/11/best-of-arxiv-org-for-ai-machine-learning-and-deep-learning-july-2020/
+cd pdf_dir && arxiv-downloader --url https://cstheory.meta.stackexchange.com/questions/41/arxiv-tags-vs-not
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/abs/2401.06823
+cd pdf_dir && arxiv-downloader --url https://mathoverflow.net/questions/2556/real-world-applications-of-mathematics-by-arxiv-subject-area
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/abs/2310.09561
+cd pdf_dir && arxiv-downloader --url https://www.cs.iastate.edu/swapp/files/inline-files/sarkar-arxiv-oct-2020.pdf
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/abs/2402.08303
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2203.09664
+cd pdf_dir && arxiv-downloader --url http://arxiv.org/abs/2206.04047
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/1803.10829
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2302.10907
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/abs/2311.17104
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2311.02455
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2303.00233
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/abs/2312.16600
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2403.08959
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/html/2311.15156v2
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/abs/2401.07379
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2312.16600
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/abs/2311.12711
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/abs/2312.10310
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2310.14935
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/abs/2403.08959
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2401.03968
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2303.16725
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2210.04453
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2307.08509
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2002.07128
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/html/2312.14220v1
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/html/2302.03038v2
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2312.14220
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/abs/2304.13084
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/abs/2211.03553
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2306.13750
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/abs/2312.14220
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2312.10261
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/html/2312.10261v1
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2203.01884
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2005.03994
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2306.01859
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2112.03266
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/abs/2307.08509
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2309.07950
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/abs/2201.07322
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/abs/2310.02713
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/abs/2110.07069
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/abs/2002.07128
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/abs/2106.08317
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/abs/2205.09849
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2307.00558
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/abs/2110.00681
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/abs/2304.02697
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/abs/2203.01884
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/abs/2104.01512
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/abs/2108.05039
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/abs/2204.14048
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/html/2403.17615v1
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2311.15156
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2403.17615
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/html/2403.08959v1
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/html/2312.16600v1
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/abs/2001.01666
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/html/2401.03968v2
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2107.02584
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2402.08303
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/html/2311.02455v2
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2312.09234
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2301.12222
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/html/2311.17104v2
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/html/2312.10310v1
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2310.03086
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/abs/2403.05679
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2311.03410
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2108.10446
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2307.03672
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/html/2402.11289v1
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2302.03038
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2402.04912
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/html/2401.10657v1
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2401.04155
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/html/2311.11991v2
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2402.11289
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/abs/2401.15903
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/html/2403.05679v1
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/abs/2007.09524
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/1603.06430
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2304.02697
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/html/2403.00024v1
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/1910.12326
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/list/q-bio.GN/2212
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2202.02958
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/html/2403.11375v1
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2311.02594
+cd pdf_dir && arxiv-downloader --url https://arxiv.org/pdf/2302.13268
