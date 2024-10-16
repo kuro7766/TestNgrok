@@ -1,2 +1,2 @@
 cd pdf_dir && rm *
-cd pdf_dir && paper https://arxiv.org/abs/2405.18415
+cd pdf_dir && paper https://arxiv.org/pdf/2405.18415
