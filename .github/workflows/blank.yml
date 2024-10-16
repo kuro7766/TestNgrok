@@ -43,8 +43,8 @@ jobs:
           python3 -m pip install --upgrade arxiv-dl
 
       - run: |
-          # sh run.sh remote.ipynb remote.py
-          sh run.sh go.ipynb go.py
+          sh run.sh remote.ipynb remote.py
+          # sh run.sh go.ipynb go.py
 
       - uses: actions/upload-artifact@v4
         with:
