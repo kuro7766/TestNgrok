@@ -1,11 +1,120 @@
 cd pdf_dir && rm *
-cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2010.03240
-cd pdf_dir && arxiv-downloader https://arxiv.org/pdf/2010.03240
-cd pdf_dir && arxiv-downloader https://arxiv.org/pdf/2105.04170
-cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2106.06258
-cd pdf_dir && arxiv-downloader https://arxiv.org/pdf/2307.14059
-cd pdf_dir && arxiv-downloader https://arxiv.org/html/2402.07425v2
-cd pdf_dir && arxiv-downloader https://arxiv.org/pdf/2402.07425
-cd pdf_dir && arxiv-downloader https://arxiv.org/pdf/2402.02626
-cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2401.16427
-cd pdf_dir && arxiv-downloader https://arxiv.org/html/2405.18971v1
+
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2405.18415
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2105.04895
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2303.14126
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2205.09904
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2304.09224
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2311.00206
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2305.15316
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2405.15668
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2302.14301
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2306.00917
+
+
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2304.10131
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2303.13166
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2403.10287
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2403.18294
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2403.19654
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2307.09829
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2403.19600
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2010.11929
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2307.08702
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2403.06517
+
+
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2109.02862
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2402.19326
+cd pdf_dir && arxiv-downloader http://arxiv.org/abs/1712.04621
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2112.02902
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2205.01972
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2302.02551
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/1812.01187
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2201.10766
+cd pdf_dir && arxiv-downloader http://arxiv.org/abs/1912.05170
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2101.10423
+
+
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2101.10423
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2011.14027
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2304.06385
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/1801.09321
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2204.13650
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2105.03404
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/1312.6034
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2204.00484
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2206.02151
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2011.02831
+
+
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2211.13403
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2006.11480
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/1701.03551
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/1604.04573
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2107.00645
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2110.04543
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2103.14586
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/1905.03288
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/1906.02899
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/1312.5402
+
+
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/1512.03385
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2109.01831
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2011.00768
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/1907.09000
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2201.11014
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2004.03459
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2006.15476
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2010.06497
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/1505.03873
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2006.02026
+
+
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/1511.06744
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/1811.06992
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/1202.2745
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2307.14901
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2312.16880
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2403.03849
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2407.14509
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2404.04663
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2312.04076
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2311.06375
+
+
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2403.07277
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2311.07593
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2408.09709
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2404.11003
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2401.01724
+cd pdf_dir && arxiv-downloader http://arxiv.org/abs/2408.08125
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2405.05742
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2403.15031
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2306.06076
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2302.08909
+
+
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2402.03783
+cd pdf_dir && arxiv-downloader https://www.arxiv.org/abs/2407.11211
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2408.00636
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2404.10864
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2403.10519
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2312.07932
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2403.10935
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2312.12102
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2404.16268
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2312.06868
+
+
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2311.15966
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2407.08625
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2311.04157
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2110.14795
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2311.15438
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2407.16268
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2312.00364
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2403.11934
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2307.01473
+cd pdf_dir && arxiv-downloader https://arxiv.org/abs/2401.09607
